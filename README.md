@@ -1,5 +1,3 @@
-![logo](https://github.com/alomgiraziz/alomgiraziz/blob/main/Github%20Banner.png?raw=true)
-
 <h1 align="center">Hi 👋, I'm Md Alomgir</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
